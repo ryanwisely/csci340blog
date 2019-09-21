@@ -12,8 +12,8 @@ while setting up the website, i struggled--big time--with my code editing applic
 
 generally speaking, i am definitely looking forward to learning more about front-end design, specifically
 
--javascript
--effective ui layouts
+1. the javascript lingo
+2. effective ui layouts
 
 since i can learn and apply this directly through the group project i'm in, project paperweight. i admit i obviously need to know back-end too, but i'm not looking forward to it.
 
