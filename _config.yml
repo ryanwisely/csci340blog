@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: things i have gone and done in my computer science 340 class
+title: things i have gone and done in my college computer science class
 email: wiselyre@hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  this website is essentially a memory capsule to document my knowledge of computer science during my years in college since my pea-sized brain isn't able to retain much information, unfortunately.
+  this website is essentially a memory capsule to document my knowledge of csci 340 during my years in college at hendrix since my pea-sized brain isn't able to retain much information, unfortunately.
 baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "http://ryanwisely.github.io/csci340blog" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: rywisely
