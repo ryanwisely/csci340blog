@@ -11,7 +11,7 @@ another brain cell of mine focuses itself on some of the artsy-fartsy things in 
 francis bacon (1909-1992) was a british painter who is known for his expressionalist and surrealistic styles. he used oils to paint self-portraits that often reflected the underlying melancholy that showed up in his life.
 
 <figure>
-![](https://www.tate.org.uk/art/images/work/T/T03/T03073_9.jpg)
+  ![](https://www.tate.org.uk/art/images/work/T/T03/T03073_9.jpg)
 	<img src="{{ '' | prepend: site.baseurl }}" alt="">
 	<figcaption>Triptych–August 1972, oil on canvas</figcaption>
 </figure>
