@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the third brain cell"
-date:   2019-09-25
+date:   2019-09-24
 ---
 
 there is a brain cell of mine that is completely dedicated to music. i'm an avid spotify user who makes countless playlists and mixtapes that contain songs from various types of genres.

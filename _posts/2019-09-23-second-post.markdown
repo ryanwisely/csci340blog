@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the second brain cell"
-date:   2019-09-25
+date:   2019-09-23
 ---
 
 ![](https://meme.xyz/uploads/posts/t/l-35556-my-reaction-to-everything-be-ive-killed-all-my-brain-cells.jpg)
