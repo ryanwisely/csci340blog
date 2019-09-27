@@ -16,4 +16,6 @@ this is my first experience with technical website design. it was hard navigatin
 
 ![](http://i.imgur.com/XuyLGPb.jpg )
 
-downloading all the files was a little overwhelming to look at, all at once, since i was scared to accidentally type something that would break the website. granted, none of this is rocket science--but it is computer science. hopefully i'll eventually understand the background components better as we get more in depth with the class later.
+downloading all the files was a little overwhelming to look at, all at once, since i was scared to accidentally type something that would break the website. hopefully i'll eventually understand the background components better as we get more in depth with the class later.
+
+granted, even though none of this is rocket science--it *is* computer science.
