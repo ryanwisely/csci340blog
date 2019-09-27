@@ -6,8 +6,7 @@ title: About Long Haul
 <div class="post">
 	<h1 class="pageTitle">About Long Haul</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p class="intro">*things i have gone and done in my college computer science class* was created in september 2019 by its sole author & contributor, ryan wisely. ryan is an undergrad student at hendrix college in conway, arkansas. as a computer science and spanish double major, she is using this website as a way to document the first half of her persona by documenting such STEM-y frustrations of the trials and tribulations within computer science. ryan also occasionally participates in college-related orgs, such as khdx. she has a radio show, called radio rewind!, that airs on tuesdays at 5p. </p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
@@ -22,3 +21,5 @@ title: About Long Haul
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
 </div>
+
+[I'm an inline-style link](https://www.google.com)
