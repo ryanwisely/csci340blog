@@ -8,7 +8,7 @@ categories: jekyll update
 
 ![](https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/50259498_10215782367125799_97058856365981696_n.jpg?_nc_cat=104&_nc_oc=AQkP-7YuGAfLqnoStR7tTelAao8Zdn481_n71kX-cK5xn5L8bDiKbPV-8uR6JFG_Kzc&_nc_ht=scontent-dfw5-2.xx&oh=78d1436c7f5900b302bb6f92e2f43b41&oe=5E007599);
 
-welcome to my page.
+###### welcome to my page.
 
 that sounds personal, albeit generic, so i'll treat this website like a diary just to jot down some moans & groans as a computer science student--and the occasional hootin' and hollerin'--to remember such experiences i have endured as a nineteen year old sophomore, trying to maneuver a way through the pre-trial foreshadowing greys of life while in college.
 
