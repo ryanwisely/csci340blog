@@ -4,7 +4,7 @@ title:  "the second brain cell"
 date:   2019-09-25
 ---
 
-![](https://pics.me.me/thumb_my-reaction-to-everything-bc-ive-killed-all-my-brain-59695589.png)
+![](https://meme.xyz/uploads/posts/t/l-35556-my-reaction-to-everything-be-ive-killed-all-my-brain-cells.jpg)
 
 ###### designing the site
 
