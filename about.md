@@ -1,12 +1,12 @@
 ---
 layout: default
-title: About Long Haul
+title: about the blog
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">*things i have gone and done in my college computer science class* was created in september 2019 by its sole author & contributor, ryan wisely. ryan is an undergrad student at hendrix college in conway, arkansas. as a computer science and spanish double major, she is using this website as a way to document the first half of her persona by documenting such STEM-y frustrations of the trials and tribulations within computer science. ryan also occasionally participates in college-related orgs, such as khdx. she has a radio show, called radio rewind!, that airs on tuesdays at 5p. </p>
+	<h1 class="pageTitle">about the blog</h1>
+	<img src="{{ '/assets/img/IMG_3372.jpg' | prepend: site.baseurl }}" alt="">
+	<p class="intro"><**>things i have gone and done in my college computer science class<** was created in september of 2019 by its sole author, caretaker, and contributor, ryan wisely. ryan is an undergrad student at hendrix college in conway, arkansas. as a computer science and spanish double major, she is using this website as a way to document the first half of her persona by documenting such s.t.e.m.-y frustrations of the trials and tribulations within computer science. ryan also occasionally participates in college-related organizations around campus, such as khdx. she has a radio show, called radio rewind!, that airs on tuesdays at 5p. </p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
