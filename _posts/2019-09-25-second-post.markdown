@@ -8,7 +8,7 @@ date:   2019-09-25
 
 ###### designing the site
 
-using a custom template to style my blog was rather daunting because there's so much flexibility on what material i want to add to the website.
+using a custom template to style my blog was rather daunting because there's so much flexibility on what material could to added onto the website.
 
 now **that** is a good thing, however, it requires a lot more meticulousness on the programmer's end to make sure all of the small, customized pieces are still intact and working.
 
