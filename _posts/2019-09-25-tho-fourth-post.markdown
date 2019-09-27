@@ -12,6 +12,6 @@ francis bacon (1909-1992) was a british painter who is known for his expressiona
 
 <figure>
   ![](https://www.tate.org.uk/art/images/work/T/T03/T03073_9.jpg)
-	<img src="{{ '' | prepend: site.baseurl }}" alt="">
+	<img src="{{ 'https://www.tate.org.uk/art/images/work/T/T03/T03073_9.jpg' | prepend: site.baseurl }}" alt="">
 	<figcaption>Triptych–August 1972, oil on canvas</figcaption>
 </figure>
