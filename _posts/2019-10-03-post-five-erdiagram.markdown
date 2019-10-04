@@ -14,3 +14,4 @@ date:   2019-10-03
 
 
   I am pretty satisfied with my data representation, even though I do feel like I might be missing one more entity or might have mislabeled an attribute for a primary key. </p>
+</div>
