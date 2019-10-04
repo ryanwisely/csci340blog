@@ -9,4 +9,7 @@ Write a post on your Jekyll Github blog that discusses the assumptions you made 
 <div class="post">
   <img src="{{ '/assets/img/erdiagram.png' | prepend: site.baseurl }}" alt="">
 
+  <img src="{{ '/assets/img/erdiagramcsci340.sql' | prepend: site.baseurl }}" alt="">
+
+
   <p class="paragraph">"I listed customers, sellers, and items as my entities. I used sell, user, and submit as my </p>
