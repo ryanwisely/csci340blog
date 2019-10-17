@@ -10,6 +10,6 @@ express- since its intention is to "optimize throughput and scalability" for web
 
 ruby on rails-
 
-ASP.NET-
+ASP.NET- it's written by microsoft, but i do like the universality of this could be used with windows, mac, or linux. i like how one could make the webpages dynamic by using razor (html/c#) and javascript.
 
-laravel-
+laravel- this framework intimidates me the most out of all them because it is written in PHP, a language i am very intimidated of and clueless on how to use it. the demo in class, from what i remember, was very complicated from the structure of the set up. it was hard to understand why there needed to be more than one instance to connect the framework and how
