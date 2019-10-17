@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the fifth brain cell"
+title:  "the sixth brain cell"
 date:   2019-10-16
 ---
 
@@ -8,7 +8,7 @@ django- i really enjoyed learning about django since it is very similar to flask
 
 express- since its intention is to "optimize throughput and scalability" for web developing, express uses javascript (Mozilla)
 
-ruby on rails-
+ruby on rails- this was the only framework that i had vaguely heard of before the semester started. ruby's object-oriented language i think would make it more difficult to implement, so i'm not sure how beneficial and effective this would be for the group project for hendrix learning domain website.
 
 ASP.NET- it's written by microsoft, but i do like the universality of this could be used with windows, mac, or linux. i like how one could make the webpages dynamic by using razor (html/c#) and javascript.
 
