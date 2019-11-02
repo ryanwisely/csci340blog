@@ -4,6 +4,9 @@ title:  "the sixth brain cell"
 date:   2019-10-16
 ---
 
+frameworks
+
+
 django- i really enjoyed learning about django since it is very similar to flask, the framework i had to research. like flask, django is written in python and easy to use, though it is more rigid in application style than flask. this framework probably won't be used for my group project.
 
 express- since its intention is to "optimize throughput and scalability" for web developing, express uses javascript to help programmers do work at the minimum to perform at the maximum (Mozilla). most of its features come with plugins so it is very easy to customize to one's liking.
