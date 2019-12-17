@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "the final brain cell"
+date:   2019-12-17
+---
+
+The final. The reflection. The final reflection.
+
+
+The two most essential skills in executing a task are communication and transparency. I think they are crucial to have in any task: big or small. I’ve experienced it myself when working with the other five members in the Hendrix Assessment Team project. This is my first time working in a larger group, as well as a larger project. Due to its size, the duration of the project was expected to last a semester. From this, it was imperative to establish effective communication skills amongst the members. By holding each other accountable, we maintained a good job in scheduling meeting by sending messages through Slack or e-mail.
+
+On the other side of the coin, I understand the hectic environment of college life, resulting in the occasional scheduling conflict. Not everyone has been always able to meet together. It hasn’t been a huge issue but still slightly causes the occasional inconvenience if there’s a pressing decision that needs to be discussed ASAP and requires every member present. Transparency, though, has helped recognize the strengths and weaknesses in each member's knowledge in programming and computer science. This has made it much easier to assign appropriate roles and responsibilities within the group.
+
+On a larger scale, I have recently gained exposure of what the product of communication and transparency looks like through working with Dr. Pfau and Dr. Leonard over the course of the semester. They expressed their concerns of the original, malfunctioning survey website and desires of the new, updated website. Since they are our clients, we tackled the responsibility and obligations to fulfill their request. In the process, our team had to communicate our boundaries and limitations within the program, such as controls within the framework or database. The transparency coming from both sides were helpful in learning how to compromise more effectively. Because of the clear communication, we narrowed our goals, both within the team and the clients, to prioritize the main functions of the survey website.
+
+Designing a new learning domain survey website did not only solve our clients’ request, but it also solved the rest of the Hendrix professor's concerns, too. Our team fixed a dormant technological problem that affected every professor on campus. Most professors teach courses that contain a learning domain. Since it’s obligatory for a professor to submit a survey evaluation of their students for each learning domain course at end the semester, the website needs to be able to properly store the appropriate data for each professor and run seamlessly. The apparent urgency of rewriting this website within the computer science course of a semester shows the significance and importance of this ongoing problem. The difficulty of the prior website causing so many problems highlighted the underlying concern within the Hendrix professor community, and I'm glad our team was able to fully restore the survey website. 
