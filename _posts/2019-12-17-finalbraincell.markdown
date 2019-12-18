@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "the final brain cell: the final. the reflection. the final reflection"
+title:  "the final brain cell"
 date:   2019-12-17
 ---
+the final. the reflection. the final reflection.
+
 
 Since working on a large-scaled project with many people over the course of several months, I firmly believe the two most essential skills in executing a task are communication and transparency. I think they are crucial to have in any task: big or small. I’ve experienced it myself when working with the other five members in the Hendrix Assessment Team project. This is my first time working in a larger group, as well as a larger project. Due to its size, the duration of the project was expected to last a semester. From this, it was imperative to establish effective communication skills amongst the members. By holding each other accountable, we maintained a good job in scheduling meeting by sending messages through Slack or e-mail.
 
